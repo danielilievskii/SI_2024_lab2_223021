@@ -10,6 +10,6 @@
 ![Every Branch Image](https://github.com/danielilievskii/SI_2024_lab2_223021/blob/master/everyBranch.png)
 
 ### Тест случаи според критериумот Multiple condition
-![Every Path Image](https://github.com/danielilievskii/SI_2024_lab2_223021/blob/master/multipleCondition.png)
+![Every Path Image](https://github.com/danielilievskii/SI_2024_lab2_223021/blob/master/multipleConditionNew.png)
 
 ### Објаснување на напишаните unit tests
